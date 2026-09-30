@@ -1,0 +1,15 @@
+:root {
+  --ds-color-canvas: #09090b;
+  --ds-color-surface: #111113;
+  --ds-color-surface-raised: #18181b;
+  --ds-color-border: #27272a;
+  --ds-color-text-primary: #fafafa;
+  --ds-color-text-secondary: #a1a1aa;
+  --ds-color-text-muted: #71717a;
+  --ds-color-accent: #64ffda;
+  --ds-color-accent-soft: #183a34;
+  --ds-color-purple: #d1a2f9;
+  --ds-color-success: #7ee787;
+  --ds-color-warning: #ffdd57;
+  --ds-color-danger: #da3633;
+}
